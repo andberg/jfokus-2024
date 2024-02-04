@@ -78,3 +78,7 @@ footer a {
     padding: 0.25rem;
     height: fit-content;
 }
+
+h2.smaller-heading {
+    font-size: 1rem;
+}

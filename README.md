@@ -45,8 +45,10 @@ Welcome to the repo for Hack the Accessibility Crisis talk, here you will find;
 
 ### Tools
 
-- [Chrome extension - Silktide, för att emulera funktionsnedsättningar och variationer](https://chromewebstore.google.com/detail/silktide-website-accessib/okcpiimdfkpkjcbihbmhppldhiebhhaf?pli=1)
-- [Chrome extension - Hög kontrast, för att se din webb så som många kunder väljer att se den](https://chromewebstore.google.com/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph?hl=en)
+- [Chrome extension - Silktide, emulate different disabilities and the web how they do](https://chromewebstore.google.com/detail/silktide-website-accessib/okcpiimdfkpkjcbihbmhppldhiebhhaf?pli=1)
+- [Chrome extension - High Contrast](https://chromewebstore.google.com/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph?hl=en)
+- [Chrome extension - WCAG Color Contrast Checker](https://chromewebstore.google.com/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf)
+- [Headings Map - Verify that you have the right semantics for your headings](https://chromewebstore.google.com/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi)
 - [Axe - Free automatic testing tool](https://www.deque.com/axe/)
 
 ### Design
@@ -66,6 +68,10 @@ Welcome to the repo for Hack the Accessibility Crisis talk, here you will find;
 - [A guide for making apps accessible](https://appt.org/en)
 - [Accessibility Developer Guide](https://www.accessibility-developer-guide.com/)
 
+### Organisation and management
+
+- [Measuring Ourselves: GitHub’s Accessibility Scorecard](https://www.deque.com/axe-con/sessions/measuring-ourselves-githubs-accessibility-scorecard/)
+
 ### Newsletters, blogs, forums etc
 
 - [a11y Weekly - nyhetsbrev mail](https://a11yweekly.com/)
@@ -73,7 +79,7 @@ Welcome to the repo for Hack the Accessibility Crisis talk, here you will find;
 - [t12t - Stockholm accessibility Meetup](https://www.meetup.com/t12t-Stockholm/)
 - [Tillgänglighetstruppen - Swedish network on Facebook](https://www.facebook.com/groups/1084090414947249/)
 
-## Screen readers
+### Screen readers
 
 - [NVDA](https://www.nvaccess.org/download/) VoiceOver (Built-in with Mac OS)
 - [JAWS](https://www.freedomscientific.com/products/software/jaws/) (among the most popular, however not for free)
